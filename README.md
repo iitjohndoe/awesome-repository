@@ -2,7 +2,7 @@
 
 ## Team members
 
-(Delete this line and replace it with your information!)
+- Michael Lee <lee@iit.edu>
 
 ## Git & GitHub
 
